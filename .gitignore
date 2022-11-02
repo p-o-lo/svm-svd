@@ -1,0 +1,11 @@
+*.o
+svmThree
+*.txt
+*.swp
+*.input
+*.output
+*.dat
+*.h5
+!esempio.input
+/.metadata/
+/build/
